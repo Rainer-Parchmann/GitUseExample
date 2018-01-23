@@ -12,6 +12,7 @@
 		F0655A1E2017C153008919CB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F0655A1C2017C153008919CB /* Main.storyboard */; };
 		F0655A202017C153008919CB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F0655A1F2017C153008919CB /* Assets.xcassets */; };
 		F0655A232017C153008919CB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F0655A212017C153008919CB /* LaunchScreen.storyboard */; };
+		F0655A2B2017C534008919CB /* MapForItinary.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0655A2A2017C534008919CB /* MapForItinary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		F0655A1F2017C153008919CB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F0655A222017C153008919CB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F0655A242017C153008919CB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F0655A2A2017C534008919CB /* MapForItinary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapForItinary.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				F0655A182017C153008919CB /* AppDelegate.swift */,
 				F0655A1A2017C153008919CB /* ViewController.swift */,
+				F0655A2A2017C534008919CB /* MapForItinary.swift */,
 				F0655A1C2017C153008919CB /* Main.storyboard */,
 				F0655A1F2017C153008919CB /* Assets.xcassets */,
 				F0655A212017C153008919CB /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			files = (
 				F0655A1B2017C153008919CB /* ViewController.swift in Sources */,
 				F0655A192017C153008919CB /* AppDelegate.swift in Sources */,
+				F0655A2B2017C534008919CB /* MapForItinary.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
